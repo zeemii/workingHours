@@ -8,7 +8,7 @@ import {UserService} from "../../Services/user.service";
 })
 
 
-export class UserWorkingHoursComponent implements OnInit, OnInit {
+export class UserWorkingHoursComponent implements OnInit {
   users: any;
   chosenUser: any;
   columnsToDisplay = ['name', 'work_hours_per_week', 'worked_hours'];
