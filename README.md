@@ -1,6 +1,9 @@
 # Calculator
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.8.
+NodeJs required 
+
+install with npm install
 
 Start the api server first and afterwards the development server with ng serve.
 Now you should see the working hours list on http://localhost:4200/
