@@ -8,11 +8,11 @@ For more information read the following instructions:
 
 ## API server
 
-Run node calculator/server/index.js in your terminal
+Run node server/index.js in your terminal
 
 ## Development server
 
-- navigate to directory calculator in your terminal
+
 - Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files. 
 
 _disable web security in chrome or your chosen browser on local environment_
