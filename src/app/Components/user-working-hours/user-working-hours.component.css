@@ -1,0 +1,38 @@
+.box {
+  width: 100%;
+  height: 100%;
+  padding: 10px
+}
+
+.label {
+  color: #262626;
+  background-color: #eee;
+  border: 1px solid #333;
+  border-top-left-radius: 3px;
+  border-top-right-radius: 3px;
+  padding: 6px;
+  font-size: 1.2em;
+}
+
+.work-hours-per-week {
+  text-align: right;
+}
+
+table {
+  width: 100%;
+}
+
+.width-100 {
+  width: 100px;
+}
+
+.right {
+  text-align: right;
+}
+
+.red {
+  color: #ff2222;
+}
+.green {
+  color: #0dc70d;
+}

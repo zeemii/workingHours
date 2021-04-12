@@ -1,0 +1,23 @@
+{
+  "name": "application-assignment",
+  "version": "1.0.0",
+  "description": "Simple REST API for solving an application assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caspertorndahl/application-assignment.git"
+  },
+  "author": "casper@clinicdrive.dk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caspertorndahl/application-assignment/issues"
+  },
+  "homepage": "https://github.com/caspertorndahl/application-assignment#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
