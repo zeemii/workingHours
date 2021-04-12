@@ -1,0 +1,14 @@
+body {
+  margin: 0px;
+  background: black;
+}
+.container {
+  width: 80%;
+  margin: 0px auto;
+  height: 100%;
+}
+
+html {
+  background: black;
+}
+
